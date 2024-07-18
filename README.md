@@ -17,3 +17,7 @@ This website displays information for my Product Management project, as part of 
 [Week 3](./week_updates/week_3_update.md) |
 [Week 4](./week_updates/week_4_update.md) |
 [Week 5](./week_updates/week_5_update.md) |
+[Week 6](./week_updates/week_6_update.md) |
+[Week 7](./week_updates/week_7_update.md) |
+[Week 8](./week_updates/week_8_update.md) |
+[Week 9](./week_updates/week_9_update.md) |
